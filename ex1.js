@@ -2,13 +2,11 @@
 class Pessoa {
     // Crio uma função para as PROPRIEDADES da classe
     constructor(nome, idade, deitado, emPe) {
-        // atributos públicos na instancia da classe: this.variável 
-        // atributos privados na instancia da classe: var variável = ""
+        // atributos públicos na instancia da classe: this.variável
         this.nome = nome;
         this.idade = idade;
         this.deitado = deitado;
         this.emPe = emPe;
-        var testePrivada = 55;
     }
     // Crio os METODOS
     levantar() {
@@ -45,9 +43,6 @@ p1.levantar(); // Joao levantou.
 p1.levantar(); // Joao ja está em pé.
 p1.deitar(); // Joao deitou.
 p1.deitar(); // Joao ja está deitado.
-
-// teste para atributo privado onde apenas a classe atual tem acesso
-console.log(p1.testePrivada); // undefined
 
 const p2 = new Pessoa('Paulo', 23, false, true);
 
