@@ -21,7 +21,7 @@ class Produto {
         }
     }
 }
-// crio os objetos (produtos)
+// crio os objetos
 const m1 = new Produto("leite", 4, 5);
 m1.valorProduto(); //Valor leites sem desconto: R$20
 

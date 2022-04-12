@@ -40,7 +40,7 @@ class ContaCorrente {
 // crio o objeto1
 const cc1 = new ContaCorrente('252409', 2000.00, false, 5000.00, 0);
 cc1.soli
-/*cc1.sacar(200.90); //Saldo atual: R$1300.09
+cc1.sacar(200.90); //Saldo atual: R$1300.09
 cc1.sacar(300.05); //Saldo atual: R$1000.04
 cc1.depositar(500.00); //Saldo atual: R$1500.04
 cc1.solicitarAlmentoLimite(); //Você não status especial para que seja feita essa solicitação.
@@ -50,4 +50,4 @@ const cc2 = new ContaCorrente('123459', 200.00, true, 4000.00, 0);
 cc2.depositar(800); //Saldo atual: R$1000
 cc2.solicitarAlmentoLimite(); //Status especial, limite almentado. Limite atual: R$4000
 cc2.solicitarAlmentoLimite(); //Status especial, limite almentado. Limite atual: R$5000
-console.log(cc2); //ContaCorrente {numero: '123459', saldo: 1000, statusEspecial: true, limite: 5000, movimentacoes: 1}*/
+console.log(cc2); //ContaCorrente {numero: '123459', saldo: 1000, statusEspecial: true, limite: 5000, movimentacoes: 1}
