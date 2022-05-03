@@ -1,0 +1,18 @@
+/* METODOS ABSTRATOS */
+ArCondicionado.prototype = Abstracao.prototype;
+/*
+ArCondicionado.prototype.ligar = function(){
+    setLigado(true);
+}
+ArCondicionado.prototype.desligar = function(){
+    setLigado(false);
+}*/
+
+/*
+let a1 = new ArCondicionado(false, 22);
+let a2 = new ArCondicionado();
+console.log(a2);
+
+a2.setLigado = true;
+a2.setIntensidade = 50;
+console.log(a2);*/
