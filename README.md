@@ -1,8 +1,6 @@
 # Dupla-POO UFBA 2022.1
 
-Participantes:
--Bruno de Sousa Behrmann
--Reginaldo Silva
+Participantes: *Bruno de Sousa Behrmann* e *Reginaldo Silva*.
 
 Este respositório tem a finalidade de mostrar o nosso desenvolvimento no aprendizado de Programação Orientada a Objetos ao longo do curso.
 Optamos por fazer puramente em JavaScript com o intuito de aprender mais sobre essa linguagem de programção, criando as funções necessárias para a aplicação em POO.
