@@ -3,7 +3,7 @@
 Participantes: *Bruno de Sousa Behrmann* e *Reginaldo Silva*.
 
 Este respositório tem a finalidade de mostrar o nosso desenvolvimento no aprendizado de Programação Orientada a Objetos ao longo do curso.
-Optamos por fazer em TypeScript com o intuito de aprender mais sobre essa linguagem de programção, criando as funções necessárias para a aplicação em POO.
+Optamos por fazer em TypeScript com o intuito de aprender mais sobre a linguagem para a aplicação em POO.
 
 ABSTRAÇÃO
  * Exercício 1 - Apresentadas 3 situações, criar um pseudocódigo de cada uma usando POO. Tem como objetivo testar a capacidade de ABSTRAÇÃO em POO.
