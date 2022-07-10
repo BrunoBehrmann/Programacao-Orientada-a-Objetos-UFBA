@@ -19,3 +19,6 @@ HERANÇA
 
 POLIMORFISMO
  * Exercício 7 - Criar um novo diagrama UML da atividade anterior usando o conceito de POLIMORFISMO e RELAÇÕES ENTRE CLASSES.
+ 
+PROJETO FINAL
+ * Exercício 8 - Aplicar os conceitos adiquiridos na disciplina no problema apresentado (mais detalhes no arquivo).
